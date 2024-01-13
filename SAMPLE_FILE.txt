@@ -1,1 +1,2 @@
 THIS IS THE SAMPLE FILE 
+This is my first practice on git up  and added from github
